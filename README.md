@@ -3,7 +3,9 @@
 A Complete food delivery app made with Flutter with laravel as backend
 This project includes many complex UI elements, api calls, navigation and state management with GetX.
 
-A Food Delivery app made by following the tutorial of dbestech in Youtube.
+This app was made by following the tutorial of dbestech in Youtube.
+Link to the Youtube video: 
+Starter Code and assets used in the project:
 
 ## Getting Started
 
