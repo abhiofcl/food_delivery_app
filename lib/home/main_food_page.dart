@@ -53,11 +53,11 @@ class _MainFoodPageState extends State<MainFoodPage> {
                       width: 45,
                       decoration: BoxDecoration(
                         borderRadius: BorderRadius.circular(15),
-                        color: Colors.blue,
+                        color: AppColors.mainColor,
                       ),
                       child: Icon(
                         Icons.search,
-                        color: AppColors.mainColor,
+                        color: Colors.white,
                       ),
                     ),
                   ),
